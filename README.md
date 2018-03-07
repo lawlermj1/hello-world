@@ -17,10 +17,10 @@ __Rene Descartes__
 
 ## Table 
 
-X | Clear | Confused
-- | ----- | --------
-Older | I am who I am | To be or not to be 
-Newer | I think, therefore I am | I feel, therefore I am 
+Clear | Confused
+----- | --------
+I am who I am | To be or not to be 
+I think, therefore I am | I feel, therefore I am 
 
 ## List 
 
