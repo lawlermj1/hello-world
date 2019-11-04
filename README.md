@@ -33,4 +33,5 @@ I think, therefore I am | I feel, therefore I am
 
 https://www.scribd.com/document/371410815/Talk-What-is-Wisdom 
 
+sein oder nicht sein
 
