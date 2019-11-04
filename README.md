@@ -35,3 +35,4 @@ https://www.scribd.com/document/371410815/Talk-What-is-Wisdom
 
 sein oder nicht sein
 
+Kerels, wollt ihr den euwig leben?
